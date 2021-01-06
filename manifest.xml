@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Custom css</name>
+	<id>custom_css</id>
+	<description>Handy tool for adding custom css through admin panel </description>
+	<author>Pranjal Pandey</author>
+	<version>1.0</version>
+	<requires>
+		<type>elgg_release</type>
+		<version>3.3</version>
+	</requires>
+</plugin_manifest>
